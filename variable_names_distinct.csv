@@ -1,0 +1,1074 @@
+NAME,LABEL
+household_id,Unique HH ID in wave 1
+household_id2,Unique HH ID in wave 2
+rural,EA rural urban indicator
+ea_id,Unique Enumeration Area Indentifier
+ea_id2,Unique Enumeration Area Indentifier2
+saq01,Region Code
+saq02,Zone Code
+saq03,Woreda Code
+saq04,Town Code
+saq05,Subcity Code
+saq06,Kebele/FA Code
+saq07,ea
+saq08,Household ID
+hh_saq09,Household Size
+hh_saq11,Household Head Name
+hh_saq12,Village Name Where the HH Lives
+hh_saq25_b,GPS Coordinates Longitude
+hh_saq25_a,GPS Coordinates Latitude
+individual_id,Unique individual ID in wave 1
+individual_id2,Unique individual ID in wave 2
+hh_s1q00,HH Member ID Code
+hh_s1q01,HH Member Name
+hh_s1q02,HH Member Relationship to HH Head
+hh_s1q03,What is the sex of [Name]?
+hh_s1q04a,How old is [Name]? (Years)
+hh_s1q04b,How old is [Name]? (Months)
+hh_s1q04_b,is [NAME] a new HH member
+hh_s1q04c,Is [NAME] still a member of this household?
+hh_s1q04d,Is the sex recorded on flap F accurate?
+hh_s1q04e,What is the correct sex of [NAME]?
+hh_s1q04f,CHECK IF THE AGE RECORDED ON THE PRINTOUT IS THE SAME AS THE ANSWER GIVEN FOR Q4
+hh_s1q04g_1,What is [NAME]'s date birth?
+hh_s1q04g_2,What is [NAME]'s month of birth?
+hh_s1q04g_3,What is [NAME]'s year of birth?
+hh_s1q04h,What is [NAME]'s correct age?
+hh_s1q05,For how many months during the last 12 months was [Name] way from the HH?
+hh_s1q06,Is respondent 10 years and older?
+hh_s1q07,What is [Name]'s main religion?
+hh_s1q08,What is [Name]'s marital status?
+hh_s1q09,Does [Name]'s spouse/partner live in this household now?
+hh_s1q10,ID Code of spouse
+hh_s1q11,In what region were you born?
+hh_s1q12,Does [Name]'s biological father live in the HH?
+hh_s1q13,Father's Roster ID
+hh_s1q14,Is [Name]'s biological father alive?
+hh_s1q15,What is/was [Name]'s biological father's highest educational level completed?
+hh_s1q16,Does [Name]'s biological mother live in this HH?
+hh_s1q17,Mother's Roster ID Code
+hh_s1q18,Is [Name]'s biological mother alive?
+hh_s1q19,What is/was [name]'s biological mother's highest education level completed?
+hh_s1q20,What is/was [NAME]'s biological father's main industry of occupation?
+hh_s1q21,What is/was [NAME]'s biological mother's main industry of occupation?
+hh_s1q22,Why did [NAME] leave this household?
+hh_s1q23_a,In which month did [NAME] leave this household?(Month member left household)
+hh_s1q23_b,In which year did [NAME] leave this household?(Year member left household)
+hh_s1q24,Does [NAME] reside in Ethiopia or outside Ethiopia now?
+hh_s1q25,Which region does [NAME] reside in at present?
+hh_s1q26,Does [NAME] currently reside in an urban or in a rural location?
+hh_s1q27,What type of urban location does [NAME] currently reside in?
+hh_s1q28,What country does [NAME] reside in at present?
+hh_s1q29,How many months has [NAME] been away?
+hh_s1q31,Has [NAME] found work or started work?
+hh_s1q32_a,What is [NAME's] occupation?
+hh_s1q32_b,What is [NAME's] occupation?
+hh_s1q33,What is the main economic activity of the enterprise that [NAME] is working in
+hh_s1q34,Who provided information on where to go and/or how to find work during [NAME's]
+hh_s1q35,From whom did [NAME] mainly obtain money in order to migrate for this move? (MAI
+hh_s1q36,While travelling or at the final destination did anyone else help [NAME]?
+hh_s1q37,Who helped [NAME]?
+pw_w3,Final adjusted wave 3 weight
+hh_s2q00,HH Member ID Code
+hh_s2q01,Mark 'X' if member if 5 years or older
+hh_s2q02,Can you read and write in any language?
+hh_s2q03,Have you ever attended school?
+hh_s2q04,What was the main reason you never attended school?
+hh_s2q05,What is the highest grade you completed?
+hh_s2q06,Are you currently attending school?
+hh_s2q07,Why are you not currently in school?
+hh_s2q08,Which grade are you attending?
+hh_s2q09,What kind of organization runs the school that you are attending?
+hh_s2q10,Were you absent from school last month for more than a week?
+hh_s2q11,What is the main reason for being absent from school?
+s2q11_others,
+hh_s2q12,By what means do you go to school?
+hh_s2q13,How much time does it take you to get to school? (in minutes)
+hh_s2q14,Do you receive any scholarship or assistance to attend school from any organizat
+hh_s2q15,"For the current school year, what is the value of this assistance, including the"
+hh_s2q16,"During the past 12 months, what did your household spend on your school fees? (B"
+hh_s2q17,"During the past 12 months, what did your household spend on school supplies? (BI"
+hh_s2q18,Do you plan to attend school next year?
+hh_s3q00,HH Member ID Code
+hh_s3q01,During the past 4 weeks has [NAME] consulted a health practitioner or traditiona
+hh_s3q02a,For what reason(s) did [NAME] consult this person? (Reason 1 )
+hh_s3q02a_others,
+hh_s3q02b,For what reason(s) did [NAME] consult this person? (Reason 2 )
+s3q02b_others,
+hh_s3q02c,For what reason(s) did [NAME] consult this person? (Reason 3 )
+hh_s3q03,Have you faced any health problems during the last 4 weeks?
+hh_s3q04_a,What was the sickness/injury you faced?(1ST Sickness)
+s3q04a_others,
+hh_s3q04_b,What was the sickness/injury you faced?(2ND Sickness)
+s3q04b_others,
+hh_s3q05,For how many days were you absent from your usual activity due to the health pro
+hh_s3q06a,Whom did [NAME] consult for this illness or injury in the last 4 weeks?
+s3q06a_others,
+hh_s3q06b,Where do you receive or consult medial assistance primarily?
+s3q06b_others,
+hh_s3q06c,"How much did [NAME] pay for the first consultation, including any medicine or te"
+hh_s3q06d_a,How long did it take to travel (one way) to your first consultation? Hours
+hh_s3q06d_b,How long did it take to travel (one way) to your first consultation? Minute
+hh_s3q07,What was the amin reason for you not consulting a health institution/traditional
+s3q07_others,
+hh_s3q08a,Have you consulted any medical assistance during the last 12 months?
+hh_s3q08b,How many times have you consulted any medical assistance during the last 12 mon
+hh_s3q09a,Were any of [NAME]'s consultations inpatient visits (i.e. [NAME] spent the night
+hh_s3q09b,How many nights did [NAME] spend in any health facility in the last 12 months?
+hh_s3q10,What were the total costs of all [NAME]'s health consultations in the last 12 mo
+hh_s3q11,Is [NAME] currently covered under a health insurance scheme (such as through an
+hh_s3q12_a,IS THIS MEMBER AGE 0-5 YEARS OLD?
+hh_s3q12,"Do you have difficulty seeing, even if you are wearing glasses?"
+hh_s3q13,"Do you have difficulty hearing, even if you are wearing a hearing aid?"
+hh_s3q14,Do you have difficulty walking or climbing steps?
+hh_s3q15,Do you have difficulty remembering or concentrating?
+hh_s3q16,"Do you have difficulty (with self care) washing all over or dressing, feeding, t"
+hh_s3q17,"Using your usual language, do you have difficulty communicating?"
+hh_s3q18,ENUMERATOR: Check questions 12 to 17. Did the respondent have any difficulties?
+hh_s3q19,"Does this difficulty reduce the amount of work you can do at home, work, or scho"
+hh_s3q20,ENUMERATOR: Is this member ages 6-107 months (less tha 9 years old)?
+hh_s3q20a,Has [NAME] had diarrhea in the last two weeks?
+hh_s3q20b,How much water was [NAME] offered to drink during the diarrhea?
+hh_s3q20c_1,Was [NAME] given any of the following to drink:ORAL REHYDRATION SALTS (ORS)
+hh_s3q20c_2,Was [NAME] given any of the following to drink:FLUID RECOMMENDED BY HEALTH WORKE
+hh_s3q20d,Was [NAME] ever breastfed?
+hh_s3q20e,"Since the time of birth, for how many months was [NAME] breastfed?"
+hh_s3q20f,"Since the time of birth, for how many months was [NAME]�exclusively�breastfed (w"
+hh_s3q21_a,"In what day, month, year was [Name] born? (Day)"
+hh_s3q21_b,"In waht day, month, year was [Name] born? (Month)"
+hh_s3q21_c,"In what day, month, year was [Name] born? (Year)"
+hh_s3q21b,What is the source of information for [NAME] birth Day
+hh_s3q22,Weight in Kilograms (KGS)
+hh_s3q23,Length or Height (Centimeters)
+hh_s3q24,ENUMERATOR: Result of Measurement
+hh_s4q00,HH Member ID Code
+hh_s4q01,Mark 'X' if member is 7 years old or older
+hh_s4q02_a,How many hours did you spend yesterday collecting water?
+hh_s4q02_b,How many minutes did you spend yesterday collecting water?
+hh_s4q03_a,How many hours did you spend yesterday collecting firewood (or other fuel materi
+hh_s4q03_b,How many minutes did you spend yesterday collecting firewood (or other fuel mate
+hh_s4q04,How many hours in the last 7 days did you spend on HH agricultural activities?
+hh_s4q05,How many hours in the last 7 days did you run or help with any kind of non-agric
+hh_s4q06,"How many hours in the last 7 days did you engage in casual, part-tiem, or tempor"
+hh_s4q07,"How many hours in the last 7 days did you do any work for a wage, salary, commis"
+hh_s4q08,How many hours in the last 7 days did you engage in an unpaid apprenticeship?
+hh_s4q09,"In the last 12 months, were you employed for a job, including casual, commision,"
+hh_s4q10_a,Describe your main job over the last 12 months? (Description)
+hh_s4q10_b,Describe you main job over the last 12 months? (Code)
+hh_s4q11_a,Describe what kind of trade or business your main job over the last 12 months is
+hh_s4q11_b,Describe what kind of trade or business your main job over the last 12 months is
+hh_s4q12,Is your employer for your main occupation over the last 12 months...
+hh_s4q13,In how many months over the last 12 months did you work at this job?
+hh_s4q14,"During these months, approximately how many weeks per months did you work at thi"
+hh_s4q15,"During these weeks, approximately how many hours per week did you work at this j"
+hh_s4q16,How much was your last payment for wages/salary? (BIRR)
+hh_s4q17,What period of time do each of your salary/wages payments cover?
+hh_s4q17a,How was this payment provded to you?
+hh_s4q18,"How much do you usually receive in allowances, etc. that were not included in th"
+hh_s4q19,Over what period of time are you reporting your allowances and gratuity payments
+hh_s4q20,"In the last 12 months, were you employed for a second job, including casual/part"
+hh_s4q21_a,Describe your secondary job over the last 12 months? (Description)
+hh_s4q21_b,Describe your secondary job over the last 12 months? (Code)
+hh_s4q22_a,Describe what kind of trade or business your secondary job over the last 12 mont
+hh_s4q22_b,Describe what kind of trade or business your secondary job over the last 12 mont
+hh_s4q23,Is your employer for your secondary job over the last 12 months...
+hh_s4q24,In how many months over the last 12 months did you work at this job?
+hh_s4q25,"During these months, approximately how many weeks per months did you work at thi"
+hh_s4q26,"During these weeks, approxiamtely how many hours per week did you work at this j"
+hh_s4q27,How much was you last payment for wages/salary? (BIRR)
+hh_s4q28,What period of time do each of your salary payments cover?
+hh_s4q28a,How was this payment provded to you?
+hh_s4q29,How much do you usually receive in allowances etc. not included in the salary yo
+hh_s4q30,What period of time do each of your allowances etc. not included in the salary c
+hh_s4q31,In the past 12 months have you been employed as temporary labour by the PSNP pro
+hh_s4q32,For how many days did you work for the PSNP program in the last 12 months?
+hh_s4q33,How much income did you get for those days worked?
+hh_s4q34,Did you do any other casual/temp labour work in the last 12 months?
+hh_s4q35,For how many days did you do this work in the last 12 months?
+hh_s4q36,How much income did you get for those days worked in total?
+hh_s4q37,"At any time over the last 12 months, did you work for other households, free of"
+hh_s4q38,"Over the last 12 months, for how many households in total did you work as exchan"
+hh_s4q00b,HH Member ID Code
+hh_s4bq01,IS HOUSEHOLD MEMBER 18 YEARS OR OLDER?
+hh_s4bq02,"Do you have a registration or account book at a bank, microfinance institution,"
+hh_s4bq03a,At which institution(s) do you currently have a registration or account book? PR
+hh_s4bq03b,At which institution(s) do you currently have a registration or account book? PU
+hh_s4bq03c,At which institution(s) do you currently have a registration or account book? MI
+hh_s4bq03d,At which institution(s) do you currently have a registration or account book? SA
+hh_s4bq03e,At which institution(s) do you currently have a registration or account book? OT
+hh_s4bq04a,"In the last 12 months, have you used any of the following products or services?"
+hh_s4bq04b,"In the last 12 months, have you used any of the following products or services?"
+hh_s4bq04c,"In the last 12 months, have you used any of the following products or services?"
+hh_s4bq04d,"In the last 12 months, have you used any of the following products or services?"
+hh_s4bq05,Do you know where to complain if you have any problems with a financial service
+hh_s4bq06,Do you know what to do if your financial institution fails?
+hh_s4bq07,"In the last 12 months, have you saved in any way (like equb or savings account)?"
+hh_s4bq08,What is the main reason that you saved money?
+hh_s4bq08_others,
+hh_s4bq09a,"In the past 12 months, did you save in any of the following formal financial ins"
+hh_s4bq09b,"In the past 12 months, did you save in any of the following formal financial ins"
+hh_s4bq09c,"In the past 12 months, did you save in any of the following formal financial ins"
+hh_s4bq09d,"In the past 12 months, did you save in any of the following formal financial ins"
+hh_s4bq09e,"In the past 12 months, did you save in any of the following formal financial ins"
+hh_s4bq10a,How often do you save in each of the following formal financial institutions? PR
+hh_s4bq10b,How often do you save in each of the following formal financial institutions? P
+hh_s4bq10c,How often do you save in each of the following formal financial institutions? MI
+hh_s4bq10d,How often do you save in each of the following formal financial institutions? SA
+hh_s4bq10e,How often do you save in each of the following formal financial institutions? OT
+hh_s4bq11a,"In the last 12 months, did you informally save in cash in any of the following w"
+hh_s4bq11b,"In the last 12 months, did you informally save in cash in any of the following w"
+hh_s4bq11c,"In the last 12 months, did you informally save in cash in any of the following w"
+hh_s4bq11d,"In the last 12 months, did you informally save in cash in any of the following w"
+hh_s4bq11e,"In the last 12 months, did you informally save in cash in any of the following w"
+hh_s4bq12a,How often do you save through each of the following informal methods? HOME (CAS
+hh_s4bq12b,How often do you save through each of the following informal methods? FRIENDS/F
+hh_s4bq12c,How often do you save through each of the following informal methods? ASSOCIATI
+hh_s4bq12d,How often do you save through each of the following informal methods? EQUB
+hh_s4bq12e,How often do you save through each of the following informal methods? OTHERS SP
+hh_s4bq13,"On average, how often would you be able to save 600 Birr?"
+hh_s4bq14_a,Why doesn't [NAME] own an account for things like saving or transferring money?
+hh_s4bq14a_others,
+hh_s4bq14_b,Why doesn't [NAME] own an account for things like saving or transferring money?
+hh_s4bq14b_others,
+hh_s4bq14_c,Why doesn't [NAME] own an account for things like saving or transferring money?
+hh_s4bq14c_others,
+hh_s4bq15,Insurance is when you pay small amounts of money over time to an insurance provi
+hh_s4q16a,"In the last 12 months, how did you insure yourself? PRIVAT INSURANCE COMPANIES ("
+hh_s4q16b,"In the last 12 months, how did you insure yourself? PUBLIC INSURANCE COMPANIES ("
+hh_s4q16c,"In the last 12 months, how did you insure yourself? EMPLOYER"
+hh_s4q16d,"In the last 12 months, how did you insure yourself? MICROFINANCE INSTITUTION"
+hh_s4q16e,"In the last 12 months, how did you insure yourself? OTHER FORMAL FINANCIAL INSTI"
+hh_s4bq17a,Why don't you use formal insurance services? First reason
+hh_s4bq17a_others,
+hh_s4bq17b,Why don't you use formal insurance services? Second reason
+hh_s4bq17b_others,
+hh_s4bq17c,Why don't you use formal insurance services? Third reason
+hh_s4bq17c_others,
+hh_s4bq18,"In the past 12 months, were you a member of Iddir?"
+hh_s4bq19a,Are you familiar with any of the following terms before this study (today): AGEN
+hh_s4bq19b,Are you familiar with any of the following terms before this study (today): ATM
+hh_s4bq19c,Are you familiar with any of the following terms before this study (today): MOBI
+hh_s4bq19d,Are you familiar with any of the following terms before this study (today): COLL
+hh_s4bq19e,Are you familiar with any of the following terms before this study (today): INTE
+hh_s4bq20,"Would you prefer to save money at a formal financial institution, through inform"
+hh_s4bq21,Do you know how to open an account at a formal financial institution (like a ban
+hh_s4bq22,Are you worried about being able to cover unexpected expenses?
+item_cd,Food ID
+hh_s5aq0a,Food Item
+hh_s5aq0a_others,Other food items
+item_cd_cf,Food ID (FOR MERGING WITH CONVERSION FACTORS)
+hh_s5aq01,"Over the past one week, did you or others in your HH consume and [item]?"
+hh_s5aq02_a,How much in total did your HH consume in the past week? (Quantity)
+hh_s5aq02_b,How much in total did your HH consume in the past week? (Unit)
+s5aq02b_others,Other unit code
+hh_s5aq03_a,How much came from purchases? (Quantity)
+hh_s5aq03_b,How much came from purchases? (Unit)
+s5aq03b_others,Other unit code
+hh_s5aq04,How much did you spend?
+hh_s5aq05_a,How much came from own production? (Quantity)
+hh_s5aq05_b,How much came from own production? (Unit)
+s5aq05b_others,Other unit code
+hh_s5aq06_a,How much came from gifts and other sources? (Quantity)
+hh_s5aq06_b,How much came from gifts and other sources? (Unit)
+s5aq06b_others,Other unit code
+hh_s5bq00,Food ID
+hh_s5bq0a,Food Item
+hh_s5bq01,"In the past one week (7 days), did you or anyone in your household consume ann ["
+hh_s5bq02,"Over the past one week, how many days did you or others in your household consum"
+hh_s5cq03,"Over the past 1 week, did any people that you did not list as HH members eat any"
+hh_s5cq00,Age Group ID
+hh_s5cq0a,Age Group
+hh_s5cq04,What was the total number of days in which any meal was shared with people [...]
+hh_s5cq05,What was the total number of meals that were shared over the past 7 days with [.
+hh_s5cq0b,Meal(Food/Drink) ID
+hh_s5cq0c,Meal(Food/Drink) group
+hh_s5cq06,"In the past 7 days, did members of this household consume any of the following m"
+hh_s5cq07,"How much did you or other household members pay, in total in the last 7 days for"
+hh_s6aq00,Item Code
+hh_s6aq0a,Item
+hh_s6aq01,"Over the past 1 month, did your HH purchase or pay for any [item]?"
+hh_s6aq02,How much did your household pay in total? (BIRR)
+hh_s8q00,Shock Code
+hh_s8q0a,Shock Description
+hh_s8q01,"During the last 12 months, was your HH affected negatively by [shock]?"
+hh_s8q02,Rank the 3 most significant shocks you experienced.
+hh_s8q03_a,"As a result of this shock, did your: (Income)"
+hh_s8q03_b,"As a result of this shock, did your: (Assets)"
+hh_s8q03_c,"As a result of this shock, did your: (Food Prodction)"
+hh_s8q03_d,"As a result of this shock, did your: (Food Stocks)"
+hh_s8q03_e,"As a result of this shock, did your: (Food Purchases)"
+hh_s8q04_a,What did your HH do in response to this shock to try to regain your former welfa
+hh_s8q04_b,What did your HH do in response to this shock to try to regain your former welfa
+hh_s8q04_c,What did your HH do in response to this shock to try to regain your former welfa
+hh_s8q05,"During the last 12 months, how many times did [shock] occur?"
+hh_s8q06,"During the last 2 years, how many times did [shock] occur?"
+hh_s9q02_a,How long has this household been living in this dwelling? (Years)
+hh_s9q02_b,How long has this household been living in this dwelling? (Months)
+hh_s9q03,On what basis does the household occupy the dwelling?
+hh_s9q04,"How many rooms (excluding the kitchen, toilet and bathroom) does the household o"
+hh_s9q05,The walls of the main dwelling are predominantly made of what material?
+hh_s9q06,The roof of the main dwelling is predominantly made of what material?
+hh_s9q07,The floor of the main dwelling is predominantly made of what material?
+hh_s9q08,What type of kitchen does the household use?
+hh_s9q09,What is the primary type of oven (Mitad) used for baking Injera/bread?
+hh_s9q10,What type of toilet facilities does the household use?
+hh_s9q10b,Is this toilet facility shared with other households?
+hh_s9q10c,Is there a place in your dwelling or yard/plot where household members can wash
+hh_s9q10d,"At this moment, is there water available at this hand washing location?"
+hh_s9q10e,"At this moment, do you have any soap, detergent, ash, mud, or sand available for"
+hh_s9q12,What type of solid waste disposal facilities does the household use?
+hh_s9q13,What is the main source of drinking water in the rainy season?
+hh_s9q13_b,Where is the source located?
+hh_s9q13_c,How much time does it take you to get to the source of water indicated in Q13? (
+hh_s9q13_d,Out of which time spent for waiting.? (in minutes)
+hh_s9q13_e,"In the dry season, is your household's main source of drinking water different t"
+hh_s9q14,What is the main source of drinking water in the dry season?
+hh_s9q14_b,Where is the source located?
+hh_s9q14_c,How much time does it take you to get to the source of water indicated in Q14? (
+hh_s9q14_d,Out of which time spent for waiting. (in minutes)
+hh_s9q15_a,"On average, how much does the household spend on water each month?"
+hh_s9q16_a,Do you do anything to the water to make it safer to drink?
+hh_s9q16_b,What do you do to make the water safe for drinking?
+hh_s9q17,Does any member of the household own another dwelling or house?(EXCLUDING MAID/G
+hh_s9q18,"How many dwellings does the household own in total, including other houses owned"
+hh_s9q19_a,What is the main Source of light for the household?
+hh_s9q19_c,"On average, how much does the household spend on electricty each month?"
+hh_s9q20_a,How many time did the household face electric power failure/interruption lasting
+hh_s9q20_b,"In the last week, how many hours were you without electricity power?"
+hh_s9q21,What is the main source of cooking fuel?
+hh_s9q22,Does any member of your household own a cell phone or landline phone?
+hh_s9q23,"On average, how much does your household spend on cell phone/landline utilizatio"
+hh_s10q00,Item Code
+hh_s10q0a,Item Description
+hh_s10q01,How many of this [item] does your household own?
+hh_s10q02_a,Who in the housheold owns the [item]? (HH ID Code #1)
+hh_s10q02_b,Who in the household owns the [item]? (HH ID Code #2)
+hh_s11aq01,"Over the past 12 months, has anyone in this HH (owned a non-agriculture business"
+hh_s11aq02,"Over the past 12 months, has anyone in this HH (processed and sold any agricultu"
+hh_s11aq03,"Over the past 12 months, has anyone in this HH (owned a trading business on a st"
+hh_s11aq04,"Over the past 12 months, has anyone in this HH (offered any services or sold any"
+hh_s11aq05,"Over the past 12 months, has anyone in this HH (owned a professional office or o"
+hh_s11aq06,"Over the past 12 months, has anyone in this HH (driven a household-owned taxi or"
+hh_s11aq07,"Over the past 12 months, has anyone in this HH (owned a bar or restaurant)?"
+hh_s11aq08,"Over the past 12 months, has anyone in this HH (owned any other non-agricultural"
+hh_s11aq08b,ENUMERATOR: DID THE HOUSEHOLD HAVE A NON-FARM ENTERPRISE IN WAVE 1?
+hh_s11aq09,ENUMERATOR: Is there a '1' for any of the questions 1 - 8?
+hh_s11bq00,Enterprise ID
+hh_s11bq01_a,Enterprise Description
+hh_s11bq01_b,Enterprise Code (Primary)
+hh_s11bq01_c,Enterprise Code (Secondary)
+hh_s11bq01a,Is this a new enterprise (Did not exist in 2006)?
+hh_s11bq01b,Is this enterprise still operating (for the last 12 months)?
+hh_s11bq01c,Why is this enterprise no longer operating (for the last 12 months)?
+hh_s11bq02,Where does this enterprise operate primarily?
+hh_s11bq03_a,Who owns/owned this enterprise in the household? (1st Owner HH ID Code)
+hh_s11bq03_b,Who owns/owned this enterprise in the household? (2nd Owner HH ID Code)
+hh_s11bq03b,Is the owner of this enterprise providing the responses to these questions?
+hh_s11bq03c,Who from the household is providing the responses to these questions?
+hh_s11bq03d_1,Who in the household makes decisions regarding the earnings from this enterprise
+hh_s11bq03d_2,Who in the household makes decisions regarding the earnings from this enterprise
+hh_s11bq04_a,What were the two main sources of start-up capital for this enterprise? (Primary
+hh_s11bq04_b,What were the two main sources of start-up capital for this enterprise? (Seconda
+hh_s11bq04b,"In the last 12 months, did you try to get credit for this enterprise from banks"
+hh_s11bq04c,Did you eventually get the credit from the banks OR other formal financial agenc
+hh_s11bq04d,"In the last 12 months, did you use any credit to operate this enterprise ?"
+hh_s11bq04e_1,"In the last 12 months, what was the source of credit that has been used to opera"
+hh_s11bq04e_2,"In the last 12 months, what was the source of credit that has been used to opera"
+hh_s11bq04f,"In the last 12 months, how much have you borrowed for this enterprise?"
+hh_s11bq04g,"In the last 12 months, did the enterprise have any loans that it was repaying (i"
+hh_s11bq04h,"In the last 12 months, what is the amount repaid on loans for the enterprise?"
+hh_s11bq05_a,When did this enterprise start operating? (Month)
+hh_s11bq05_b,When did this enterprise start operating? (Year)
+hh_s11bq06_a,To whom does/did this enterprise mostly sell its products? (Response #1)
+hh_s11bq06_b,To whom does/did this enterprise mostly sell its products? (Response #2)
+hh_s11bq07,Are the activities of this enterprise seasonal?
+hh_s11bq08_a,"During the last 12 months, in which months was enterprise activity highest? (Mon"
+hh_s11bq08_b,"During the last 12 months, in which months was enterprise activity highest? (Mon"
+hh_s11bq08_c,"During the last 12 months, in which months was enterprise activity highest? (Mon"
+hh_s11bq09,"During the last 12 months of operating, how many months was this enterprise acti"
+hh_s11bq10,"In those months when operating, how many days per month did the enterprise opera"
+hh_s11bq11,How many hired workers did this enterprise employ?
+hh_s11bq12_a,Which HH members worked in this enterprise in the last 12 months? (Roster ID #1)
+hh_s11bq12_b,Which HH members worked in this enterprise in the last 12 months? (Roster ID #2)
+hh_s11bq12_c,Which HH members worked in this enterprise in the last 12 months? (Roster ID #3)
+hh_s11bq12_d,Which HH members worked in this enterprise in the last 12 months? (Roster ID #4)
+hh_s11bq12_e,Which HH members worked in this enterprise in the last 12 months? (Roster ID #5)
+hh_s11bq12_f,Which HH members worked in this enterprise in the last 12 months? (Roster ID #6)
+hh_s11bq13,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq14_a,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq14_b,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq14_c,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq14_d,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq14_e,"During the months the enterprise was operating in the last 12 months, what were"
+hh_s11bq15,"Over the past 12 months, what share of total HH cash income came from this enter"
+hh_s11bq16_a,List 3 most important constraints to non-farm business operations and growth? (1
+hh_s11bq16_b,List 3 most important constraints to non-farm business operations and growth? (2
+hh_s11bq16_c,List 3 most important constraints to non-farm business operations and growth? (3
+hh_s11bq17,Does the enterprise have a license?
+hh_s11bq18,Is any member of this HH planning to open a non-farm enterprise in the next 12 m
+hh_s11bq19_a,List up to 3 primary contraints preventing HH members from opening a non-farm en
+hh_s11bq19_b,List up to 3 primary contraints preventing HH members from opening a non-farm en
+hh_s11bq19_c,List up to 3 primary contraints preventing HH members from opening a non-farm en
+hh_s13q00,Assistance Code
+hh_s13q0a,Assistance Description
+hh_s13q01,Did you or members of your HH receive any [..] in the past 12 months from gov or
+hh_s13q02_a,What is the name of the organization/program who provided this assistance?
+hh_s13q02_b,What is the name of the organization/program who provided this assistance? (Code
+hh_s13q03,How much cash did your HH receive from this organization in the last 12 months?
+hh_s13q03b,How was the cash payment made to your household?
+hh_s13q04,What was the value of food the HH received from this organization in the last 12
+hh_s13q05,What was the value of any other in-kind assistance received in the last 12 month
+hh_s13q06,Was this aid given to the entire HH or given to a specific person?
+hh_s13q07_a,Which members of the HH participated in this program? (HH Roster ID #1)
+hh_s13q07_b,Which members of the HH participated in this program? (HH Roster ID #2)
+hh_s13q07_c,Which members of the HH participated in this program? (HH Roster ID #3)
+hh_s14q01,"Over the past 12 months, did anyone in this HH borrow on credit from someone out"
+hh_s14q00,Loan ID
+hh_s14q02_a,From whom did the HH member borrow over the last 12 months?
+hh_s14q02_b,From whom did the HH member borrow over the last 12 months? (Code)
+hh_s14q03_a,Which HH member was responsible for the loan/ (HH roster ID Code #1)
+hh_s14q03_b,Which HH member was responsible for the loan/ (HH roster ID Code #2)
+hh_s14q04,What was the main reason for obtaining the loan?
+hh_s14q05_a,When was the loan obtained within the past 12 months? (Month)
+hh_s14q05_b,When was the loan obtained within the past 12 months? (Year)
+hh_s14q05b,How often did you repay the loan?
+hh_s14q06,Has the loan been repaid?
+hh_s14q07_a,Approxiamtely when is the loan expected to be paid back? (Month)
+hh_s14q07_b,Approximately when is the loan expected to be paid back? (Year)
+hh_s14q08_a,How much was paid in the loan when the loan is paid off? (BIRR)
+hh_s14q08_b,How much was paid in the interesl when the loan is paid off? (BIRR)
+hh_s14q08_c,How much was paid in total when the loan is paid off? (BIRR)
+hh_s14q09,"During the last 12 months, did anyone in the HH try to borrow from someone outsi"
+hh_s14q10_a,Who turned down this request? (1st)
+hh_s14q10_b,Who turned down this request? (2nd)
+hh_s14q11,What was the main reason for trying to obtain the loan?
+hh_s14q12,Is anyone in the HH awaiting word on a loan that was applied for during the last
+hh_s14q13_a,From whom or which institution was the application made for a loan? (1st)
+hh_s14q13_b,From whom or which institution was the application made for a loan? (2nd)
+hh_s14q14,What was the main reason for trying to obtain the loan?
+hh_s14q15,ENUMERATOR: Was the answer to questions 9 and 12 both 'No'?
+hh_s14q16_a,Why did no one in the HH attempt to borrow in the last 12 months? (1st)
+hh_s14q16_b,Why did no one in the HH attempt to borrow in the last 12 months? (2nd)
+sa1q01,Region Code
+sa1q02,Zone Code
+sa1q03,Woreda Code
+sa1q04,Town Code
+sa1q05,Subcity Code
+sa1q06,Kebele/FA Code
+sa1q07,ea
+cs1aq8_1,Supervisor name
+cs1aq8_3a,Supervisor Date (Day)
+cs1aq8_3b,Supervisor Date (Month)
+cs1aq8_3c,Supervisor Date (Year)
+cs1aq9_1,Coordinator/Statistician name
+cs1aq9_3a,Coordinator/Statistician Date (Day)
+cs1aq9_3b,Coordinator/Statistician Date (Month)
+cs1aq9_3c,Coordinator/Statistician Date (Year)
+cs1aq12_1,Data Entry Clerk name
+cs1aq12_3a,Data Entry Clerk Date (Day)
+cs1aq12_3b,Data Entry Clerk Date (Month)
+cs1aq12_3c,Data Entry Clerk Date (Year)
+cs1aq14_a,Date of First Interview (Day)
+cs1aq14_b,Date of First Interview (Month)
+cs1aq14_c,Date of First Interview (Year)
+cs1aq15_a,Time of First Interview Start (Hour)
+cs1aq15_b,Time of First Interview Start (Minute)
+cs1aq16_a,Time of First Interview End (Hour)
+cs1aq16_b,Time of First Interview End (Minute)
+cs1aq17_a,Branch Office Name
+cs1aq17_b,Branch Office Code
+sa1q07,EA
+cs10a2q01,Item
+cs10a2q02,Item Code
+item_others,Other Items
+cs10a2q03,Unit
+cs10a2q03_a,Unit Code
+other_unit,Other unit
+cs10a2q04,Weight
+cs10a2q05,Price
+holder_id,Unique Holder Indentifier
+household_id,Unique Household Indentifier
+saq04,Kebele/FA Code
+saq05,EA
+saq06,Household ID
+pp_saq07,Holder ID
+region,Region Name
+zone,Zone Name
+woreda,Woreda Name
+town,Town Name
+subcity,Subcity Name
+kebele,Kebele/FA Name
+pp_saq08,Household Head Name
+pp_saq09,Holder Name
+pp_saq10,Household Size
+pp_saq11,Village Name Where the HH Lives
+pp_saq12,Agricultural Smaple Survey
+pp_saq13,What is the farm type?
+pp_saq13a,What is the holder's education Level
+pp_saq14_a,Date of First Interview (Day)
+pp_saq14_b,Date of First Interview (Month)
+pp_saq14_c,Date of First Interview (Year)
+pp_saq15_a,Time of First Interview Start (Hour)
+pp_saq15_b,Time of First Interview Start (Minute)
+pp_saq16_a,Time of First Interview End (Hour)
+pp_saq16_b,Time of First Interview End (Minute)
+pp_saq17_a,Missing / Incomplete Sections 1st Interview (Section A)
+pp_saq17_b,Missing / Incomplete Sections 1st Interview (Section 1)
+pp_saq17_c,Missing / Incomplete Sections 1st Interview (Section 2)
+pp_saq17_d,Missing / Incomplete Sections 1st Interview (Section 3)
+pp_saq17_e,Missing / Incomplete Sections 1st Interview (Section 4)
+pp_saq17_f,Missing / Incomplete Sections 1st Interview (Section 5)
+pp_saq17_g,Missing / Incomplete Sections 1st Interview (Section 7)
+pp_saq17_h,Missing / Incomplete Sections 1st Interview (Section 8.1)
+pp_saq17_i,Missing / Incomplete Sections 1st Interview (Section 8.2)
+pp_saq17_j,Missing / Incomplete Sections 1st Interview (Section 8.3)
+pp_saq17_k,Missing / Incomplete Sections 1st Interview (Section 8.4)
+pp_saq17_l,Missing / Incomplete Sections 1st Interview (Section 8.5)
+pp_saq17_m,Missing / Incomplete Sections 1st Interview (Section 8.6a)
+pp_saq17_n,Missing / Incomplete Sections 1st Interview (Section 8.6b)
+pp_saq17_o,Missing / Incomplete Sections 1st Interview (Section 8.7)
+pp_saq18_a,Date of Second Interview (Day)
+pp_saq18_b,Date of Second Interview (Month)
+pp_saq18_c,Date of Second Interview (Year)
+pp_saq19_a,Time of Second Interview Start (Hour)
+pp_saq19_b,Time of Second Interview Start (Minute)
+pp_saq20_a,Time of Second Interview End (Hour)
+pp_saq20_b,Time of Second Interview End (Minute)
+pp_saq21_a,Missing / Incomplete Sections 2nd Interview (Section A)
+pp_saq21_b,Missing / Incomplete Sections 2nd Interview (Section 1)
+pp_saq21_c,Missing / Incomplete Sections 2nd Interview (Section 2)
+pp_saq21_d,Missing / Incomplete Sections 2nd Interview (Section 3)
+pp_saq21_e,Missing / Incomplete Sections 2nd Interview (Section 4)
+pp_saq21_f,Missing / Incomplete Sections 2nd Interview (Section 5)
+pp_saq21_g,Missing / Incomplete Sections 2nd Interview (Section 7)
+pp_saq21_h,Missing / Incomplete Sections 2nd Interview (Section 8.1)
+pp_saq21_i,Missing / Incomplete Sections 2nd Interview (Section 8.2)
+pp_saq21_j,Missing / Incomplete Sections 2nd Interview (Section 8.3)
+pp_saq21_k,Missing / Incomplete Sections 2nd Interview (Section 8.4)
+pp_saq21_l,Missing / Incomplete Sections 2nd Interview (Section 8.5)
+pp_saq21_m,Missing / Incomplete Sections 2nd Interview (Section 8.6a)
+pp_saq21_n,Missing / Incomplete Sections 2nd Interview (Section 8.6b)
+pp_saq21_o,Missing / Incomplete Sections 2nd Interview (Section 8.7)
+pp_saq22_a,Date of Third Interview (Day)
+pp_saq22_b,Date of Third Interview (Month)
+pp_saq22_c,Date of Third Interview (Year)
+pp_saq23_a,Time of Third Interview Start (Hour)
+pp_saq23_b,Time of Third Interview Start (Minute)
+pp_saq24_a,Time of Third Interview End (Hour)
+pp_saq24_b,Time of Third Interview End (Minute)
+pp_saq25_a,Missing / Incomplete Sections 3rd Interview (Section A)
+pp_saq25_b,Missing / Incomplete Sections 3rd Interview (Section 1)
+pp_saq25_c,Missing / Incomplete Sections 3rd Interview (Section 2)
+pp_saq25_d,Missing / Incomplete Sections 3rd Interview (Section 3)
+pp_saq25_e,Missing / Incomplete Sections 3rd Interview (Section 4)
+pp_saq25_f,Missing / Incomplete Sections 3rd Interview (Section 5)
+pp_saq25_g,Missing / Incomplete Sections 3rd Interview (Section 7)
+pp_saq25_h,Missing / Incomplete Sections 3rd Interview (Section 8.1)
+pp_saq25_i,Missing / Incomplete Sections 3rd Interview (Section 8.2)
+pp_saq25_j,Missing / Incomplete Sections 3rd Interview (Section 8.3)
+pp_saq25_k,Missing / Incomplete Sections 3rd Interview (Section 8.4)
+pp_saq25_l,Missing / Incomplete Sections 3rd Interview (Section 8.5)
+pp_saq25_m,Missing / Incomplete Sections 3rd Interview (Section 8.6a)
+pp_saq25_n,Missing / Incomplete Sections 3rd Interview (Section 8.6b)
+pp_saq25_o,Missing / Incomplete Sections 3rd Interview (Section 8.7)
+pp_saq26_a,GPS Coordinates (Latitude)
+pp_saq26_b,GPS Coordinates (Longitude)
+pp_saq26_c,Comment Box
+pp_saq27_a,Enumerator Name
+pp_saq27_b,Enumerator (Day)
+pp_saq27_c,Enumerator (Month)
+pp_saq27_d,Enumerator (Year)
+pp_saq28_a,Supervisor Name
+pp_s1q00,Individual ID
+pp_s1q01,Name
+pp_s1q01a,IS [NAME] A NEW MEMBER OF THE HOUSEHOLD (ADDED ON THIS VISIT)
+pp_s1q01b,Does [NAME] still reside in this household
+pp_s1q02,Age
+pp_s1q03,Sex
+pp_s1q04,Farm Type
+pp_s1q05,Holder
+parcel_id,Parcel ID
+pp_s2q00,Parcel ID
+pp_s2q01,Parcel Description
+pp_s2q01a,IS THIS A NEW PARCEL ADDED ON THIS VISIT?
+pp_s2q01b,Is this parcel still owned or rented in by the holder
+pp_s2q01c,"CHECK SECTION 1-HH ROSTER, QUESTION 5: IS THE HOLDER OF THIS PLOT ANSWERING THI"
+pp_s2q01d,WRITE ID CODE OF THE PERSON RESPONDING ABOUT THIS PARCEL.
+pp_s2q02,What is the number of Fields in this [Parcel]
+pp_s2q03,How did your HH acquire the [Parcel]?
+pp_s2q03b,Does anyone in the household have the right to sell this [PARCEL] or use it as c
+pp_s2q03c_a,Who in this household can decide whether to sell this [PARCEL] or use it as coll
+pp_s2q03c_b,Who in this household can decide whether to sell this [PARCEL] or use it as coll
+pp_s2q04,Does your HH have a certificate for this [Parcel]?
+pp_s2q05_a,When did you receive your certificate? (Month)
+pp_s2q05_b,When did you recieve your certificate? (Year)
+pp_s2q06_a,Under whose name(s) is the certificate issued for this [Parcel]?
+pp_s2q06_b,Under whose name(s) is the certificate issued for this [Parcel]?
+pp_s2q07_a,How much did you pay the owner for the use of [Parcel]? (Cash BIRR)
+pp_s2q07_b,How much did you pay the owner for the use of [Parcel]? (In-Kind BIRR)
+pp_s2q07_c,How much did you pay the owner for the use of [Parcel]? (Share)
+pp_s2q08,What period of time did this payment cover?
+pp_s2q08a_a,Who in the household has the use rights to this [PARCEL] you rented?(HH Roster
+pp_s2q08a_b,Who in the household has the use rights to this [PARCEL] you rented?(HH Roster
+pp_s2q09_a,Who owns this [Parcel] you rented? (Network Roster ID #1)
+pp_s2q09_b,Who owns this [Parcel] you rented? (Network Roster ID #2)
+pp_s2q10,Were any fields on this [Parcel] rented out?
+pp_s2q11,"If you were to rent out this [Parcel] today for 12 months, how much could you re"
+pp_s2q13_a,How much was received from renting out these fields on this [Parcel]? (Cash BIRR
+pp_s2q13_b,How much was received from renting out these fields on this [Parcel]? (In-Kind B
+pp_s2q13_c,How much was received from renting out these fields on this [Parcel]? (Share)
+pp_s2q14,What is the predominant soil type of this [PARCEL]?
+pp_s2q15,What is the soil quality of this [PARCEL]?
+field_id,Field ID
+pp_s3q00,Parcel ID
+pp_s3q0a,Field ID
+pp_s3q01,Field Description
+pp_s3q02_a,What is the area of [Field]? (Area)
+pp_s3q02_c,What is the area of [Field]? (Unit)
+pp_s3q03,"During this season, what is the status of this [Field]?"
+pp_s3q03b,What was the method of cropping in this [FIELD]
+pp_s3q03c,Was the field left fallow anytime during the past 10 years?
+pp_s3q03d,How long ago was [FIELD] left fallow?
+pp_s3q04,Was [Field] measured using GPS?
+pp_s3q05_a,Area of [Field] (Square Meters)
+pp_s3q06_a,GPS Coordinates Corner of the Field (Latitude)
+pp_s3q06_b,GPS Coordinates Corner of the Field (Longitude)
+pp_s3q07,ENUMERATOR: WHAT IS THE FIELD VIEW?
+pp_s3q08_a,Was the plot measured by rope & compass?
+pp_s3q08_b,area using rope and compass
+pp_s3q08b,ENUMERATOR: WAS [FIELD] MEASURED (EITHER BY GPS OR ROPE AND COMPASS)
+pp_s3q08c,Why was [FIELD] not measured?
+pp_s3q09,Field Appearance (For GPS Only)
+pp_s3q10a,"Who in the household makes primary decisions concerning crops to be planted, inp"
+pp_s3q10b,Are there other household members that the primary decision maker consults regar
+pp_s3q10c_a,Who are the other household mebers consulted by the primary decision maker on th
+pp_s3q10c_b,Who are the other household mebers consulted by the primary decision maker on th
+pp_s3q11,Is [FIELD] under Extension Program during the current agricultural season?
+pp_s3q12,Is [FIELD] irrigated during the current agricultural season?
+pp_s3q13,What is the source of water used for irrigation on [Field]?
+pp_s3q13b,What is the method of irrigation used on [FIELD]?
+pp_s3q14,Is fertilizer used on [Field]?
+pp_s3q15,Do you use any UREA on [Field] in this agricultural season?
+pp_s3q16,What is the quantity of UREA used on [FIELD] in this agricultural season? (Kilo)
+pp_s3q16b,Did you purchase any of the UREA used on [FIELD]?
+pp_s3q16c,How much of the UREA was purchased or purchased on credit during this agricultu
+pp_s3q16d,What was the value of all of the UREA that you purchased or purchased on credit
+pp_s3q17_a,Where was the UREA used on [Field] in this agricultural season acquired? (Networ
+pp_s3q17_b,Where was the UREA used on [Field] in this agricultural season acquired? (Networ
+pp_s3q18,Do you use any DAP on [Field] in this agricultural season?
+pp_s3q19,What is the quantity of DAP used on [Field]? (Kilo)
+pp_s3q19b,Did you purchase any of the DAP used on [FIELD]?
+pp_s3q19c,How much of the DAP was purchased or purchased on credit during this agricultur
+pp_s3q19d,What was the value of all of the DAP that you purchased or purchased on credit d
+pp_s3q20_a,Where was the DAP used on [Field] acquired? (Network Roster Code ID #1)
+pp_s3q20_b,Where was the DAP used on [Field] acquired? (Network Roster Code ID #2)
+pp_s3q20a_1,Do you use any NPS on [FIELD] in this agricultural season?
+pp_s3q20a_2,What is the quantity of NPS used on [FIELD] in this agricultural season?
+pp_s3q20a_3,Did you purchase any of the NPS used on [FIELD]?
+pp_s3q20a_4,How much of the NPS was purchased on cash or purchased on credit during this a
+pp_s3q20a_5,What was the value of all of the NPS that you purchased on cash or purchased on
+pp_s3q20a_6_a,Where was the NPS used on [FIELD] in this agricultural season acquired? (NETWORK
+pp_s3q20a_6_b,Where was the NPS used on [FIELD] in this agricultural season acquired? (NETWORK
+pp_s3q20a,"Do you use any other chemical fertilizers(other than UREA,DAP and NPS) on [FIELD"
+pp_s3q20a_7,What is the quantity of other chemical fertilizers used on [FIELD] in this agric
+pp_s3q20b,Did you purchase any of the other chemical fertilizers used on [FIELD]?
+pp_s3q20b_1,How much of the other chemical fertilizer was purchased on cash or purchased o
+pp_s3q20c,What was the value of all of the other chemical fertilizer that you purchased o
+pp_s3q20d_a,Where was the other inorganic fertilizer used on [FIELD] in this agricultural se
+pp_s3q20d_b,Where was the other inorganic fertilizer used on [FIELD] in this agricultural se
+pp_s3q21,Do you use any manure on [Field]?
+pp_s3q22_a,Where was the manure used on [Field] acquired? (Own Holding)
+pp_s3q22_b,Where was the manure used on [Field] acquired? (Network Roster Code ID #1)
+pp_s3q23,Do you use any compost on [Field]?
+pp_s3q24_a,Where was the compost used on the [Field] acquired? (Own Holding)
+pp_s3q24_b,Where was the compost used on the [Field] acquired? (Network Roster Code ID #1)
+pp_s3q25,Do you use any organic fertilizer on [Field]?
+pp_s3q26_a,Where was the organic fertilizer used on [Field] acquired? (Own Holding)
+pp_s3q26_b,Where was the organic fertilizer used on [Field] acquired? (Network Roster Code
+pp_s3q27_a,HH Member #1 working on field (HH Roster ID Code # 1)
+pp_s3q27_b,HH Member #1 working on field (Weeks)
+pp_s3q27_c,HH Member #1 working on field (Days/Week)
+pp_s3q27_d,HH Member #1 working on field (Hour/Day)
+pp_s3q27_e,HH Member #2 working on field (HH Roster ID Code # 2)
+pp_s3q27_f,HH Member #2 working on field (Weeks)
+pp_s3q27_g,HH Member #2 working on field (Days/Week)
+pp_s3q27_h,HH Member #2 working on field (Hour/Day)
+pp_s3q27_i,HH Member #3 working on field (HH Roster ID Code # 3)
+pp_s3q27_j,HH Member #3 working on field (Weeks)
+pp_s3q27_k,HH Member #3 working on field (Days/Week)
+pp_s3q27_l,HH Member #3 working on field (Hour/Day)
+pp_s3q27_m,HH Member #4 working on field (HH Roster ID Code # 4)
+pp_s3q27_n,HH Member #4 working on field (Weeks)
+pp_s3q27_o,HH Member #4 working on field (Days/Week)
+pp_s3q27_p,HH Member #4 working on field (Hour/Day)
+pp_s3q28_a,Hired Men (Number of Men)
+pp_s3q28_b,Hired Men (Number of Days)
+pp_s3q28_c,Hired Men (Total Daily Wage BIRR)
+pp_s3q28_d,Hired Women (Number of Women)
+parcel_id,
+field_id,
+pp_rcq0b,Parcel ID
+pp_rcq0c,Field ID
+crop_code,
+pp_s4q00,Parcel ID
+pp_s4q0a,Field ID
+pp_s4q01_a,Crop Name
+pp_s4q01_b,Crop Code
+pp_s4q02,Was the area planted with [Crop] on this [Field] pure stand or mized?
+pp_s4q03,"Approximately, how much of the [Field] was planted with [Crop]?"
+pp_s4q04,Was prevention / precaustion measures taken to prevent damage of [Crop]?
+pp_s4q05,Did you use any pesticide to prevent damage of [Crop] on this field?
+pp_s4q06,Did you use any herbicide to prevent damage of [Crop] on this field?
+pp_s4q07,Did you use any fungicide to prevent damage of [Crop] on this [Field]?
+pp_s4q08,Was [Crop] damaged on this field?
+pp_s4q09,What is the cause of damage of [Crop]?
+pp_s4q10,What is the percentage share of damage for [CROP] on this field?
+pp_s4q11,What type of Seed/Seedling was used for [Crop] on the [Field]?
+pp_s4q11b_a,What was the quantity of Seed / Seedling used for [CROP] on this [FIELD]? Kill
+pp_s4q11b_b,What was the quantity of Seed / Seedling used for [CROP] on this [FIELD]? Gram
+pp_s4q11c,IF improved seed used What was the amount spent on improved seed for [CROP] on t
+pp_s4q12_a,When did you plant the seeds for the [Crop] on this [Field]? (Month)
+pp_s4q12_b,When did you plant the seeds for the [Crop] on this [Field]? (EC Year)
+pp_s4q12b,What type of crop sowing techniques was used on this [FIELD]?
+pp_s4q12c,What does the chickpea flowers looks like?
+pp_s4q13,Enumerator: Is this a tree fruit crop?
+pp_s4q14,What is the number of fruit bearing trees on this field?
+pp_s4q15,What is the percentage area for fruit bearing on this field?
+pp_s4q16,In what year were most of these plants/trees planted on this field?
+pp_s4q17,How many trees/ plants were planted during the last 12 months?
+pp_s4q17a,How many Enset were scratched or will be scratched on this agricultural season?
+pp_s4q18,What does the sweet potato flesh looks like?
+pp_s4q19,What does the sweet potato skin looks like?
+pp_s4q20_a,How much of [CROP] do you expect to harvest during the main rainy season? (Quant
+pp_s4q20_b,How much of [CROP] do you expect to harvest during the main rainy season?(Unit)
+pp_s4q21,Do you intend to sell any of [CROP] to be harvested during the rainy season?
+pp_s4q22,How much of the expected harvest of [CROP] from the rainy season do you intend t
+pp_s4q23,How much BIRR do you expect to receive from sales of [CROP] harvested in the rai
+obs,
+STRUCTURE_ERROR,Duplicate holder_id
+hh_saq01,Region Code
+hh_saq02,Zone Code
+hh_saq03,Woreda Code
+hh_saq04,Town Code
+hh_saq05,Subcity Code
+hh_saq06,Kebele/FA Code
+hh_saq07,EA
+hh_saq08,Household ID
+crop_code,Crop Code
+pp_s5q0a,SEED Name
+pp_s5q00,SEED Code
+pp_s5q01,Seed Type
+pp_s5q01b,What is the name of the improved [SEED] variety used?
+pp_s5q02,Why did you choose to use this [Seed]?
+pp_s5q03,Did you purchase any of [Seed] used during the current agriculture season?
+pp_s5q04_a,Who/Which firms/institutions were the sources of the [Seed]? (Network Roster ID
+pp_s5q04_b,Who/Which firms/institutions were the sources of the [Seed]? (Network Roster ID
+pp_s5q05_a,How much of the [Seed] was purchased or purchased on credit? (Kilo)
+pp_s5q05_b,How much of the [Seed] was purchased or purchased on credit? (Grams)
+pp_s5q06,What was the main mode of transportation used to bring back all of the [Seed]?
+pp_s5q07,How much did you pay for transportation to acquire all of the [Seed]?
+pp_s5q08,What was the value of all of the [Seed] that you purchased? (BIRR)
+pp_s5q09,How did you finance this [Seed] purchase?
+pp_s5q10,How much did you pay up-front for this [Seed] purchase? (BIRR)
+pp_s5q11,How much did you repay/will you repay? (BIRR)
+pp_s5q12_a,What was the source of credit for the [Seed] purchase? (Network Roster ID Code #
+pp_s5q12_b,What was the source of credit for the [Seed] purchase? (Network Roster ID Code #
+pp_s5q13,Did you receive any of the [Seed] for free?
+pp_s5q14_a,How much of the [Seed] did you receive in total for free? (Kilo)
+pp_s5q14_b,How much of the [Seed] did you receive in total for free? (Gram)
+pp_s5q15_a,From whom did you receive the [Seed] for free? (Network Roster #1)
+pp_s5q15_b,From whom did you receive the [Seed] for free? (Network Roster #2)
+pp_s5q16,How much did you pay for transportation in total to acquire all of the [Seed] th
+pp_s5q17,Was any of the [Seed] that you used left over from a previous season?
+pp_s5q18_a,How much of the [Seed] used was left over from the previous season? (Kilo)
+pp_s5q18_b,How much of the [Seed] used during the [Current Agriculture Season] was left ove
+pp_s5q19_a,What was the total amount of [Seed] used? (Kilo)
+pp_s5q19_b,What was the total amount of [Seed] used? (Gram)
+pp_s7q01,Do you exercise crop rotation on your land holding?
+pp_s7q02,Did you use chemical fertilizers on any one of your crop fields?
+pp_s7q03,What is the reason for not using chemical fertilizers?
+pp_s7q04,Do you participate in the extension program?
+pp_s7q05,What is the reason for not participating in the Extension Program?
+pp_s7q06,Do you get credit services?
+pp_s7q06_1,Where did you get the credit from?
+pp_s7q07,Why did you not get credit services?
+pp_s7q08,Do you get advisory services?
+pp_s7q09,Why do you not get advisory services?
+pp_s7q10_a,Who are your major suppliers of fertilizer? (Supplier 1)
+pp_s7q10_b,Who are your major suppliers of fertilizer? (Supplier 2)
+pp_s7q11,How many oxen do you have in this Meher season?
+pp_s7q12,If you have one or no ox how do you plough?
+pp_s7q12a,How many oxen do you have?
+pp_s7q12b,How many fields do you have?
+pp_s7q12c,How many cultivated fields do you have?
+pp_s7q12d,Do you plough any additional field other than the fields you had in the last agr
+pp_s7q12e,What was the purpose of this additional field in the last agricultural season
+pp_s7q13,Total Chemical Fertilizers purchased for main season in 2006 E.c. (KILO)
+pp_s7q14,Total Dap fertilizer ready for use for main season in 2008 E.c (it includes purc
+pp_s7q15,Total Urea fertilizer ready for use for main season in 2008 E.c (it includes pur
+pp_s7q15a,Total NPS fertilizer ready for use for main season in 2008 E.c (it includes purc
+pp_s7q15b,Total other chemical fertilizer ready for use for main season in 2008 E.c (it i
+pp_s7q16a,16a Total Dap fertilizer used for main season in 2008 E.c (it includes purchase
+pp_s7q16b,16b Total Urea fertilizer used for main season in 2008 E.c (it includes purchase
+pp_s7q16b_2,Total NPS fertilizer used for main season in 2008 E.c (it includes purchase gift
+pp_s7q16b_3,Total other chemical fertilizer used for main season in 2008 E.c (it includes pu
+pp_s7q16c_a,"16c If there is a difference in the amount reported between Q14 and Q16a , Q15 a"
+pp_s7q16c_b,"16c If there is a difference in the amount reported between Q14 and Q16a , Q15 a"
+pp_s7q16c_c,"16c If there is a difference in the amount reported between Q14 and Q16a , Q15 a"
+pp_s7q17,"For the last 5 years, Have you participated in watershed activities in your comm"
+pp_s7q18_a,When did you participate in the watershed activities in your community? (month)
+pp_s7q18_b,When did you participate in the watershed activities in your community? (year)
+pp_s7q19,For how many days have you participated in the watershed activities?
+pp_s7q20_a,What was the three major watershed activities have you participated in?
+pp_s7q20_b,What was the three major watershed activities have you participated in?
+pp_s7q20_c,What was the three major watershed activities have you participated in?
+pp_s7q20a,Did you buy weather index insurance in this agricultural season?
+pp_s7q20b_a,Which crops(s) did you insure?
+pp_s7q20b_b,Which crops(s) did you insure?
+pp_s7q20b_c,Which crops(s) did you insure?
+pp_s7q20c,How much did you spend on the insurance premium for this agricultural season?
+pp_s7q20d,Have you ever bought crop insurance before this agricultural season?
+pp_s7q20e,Did you get any conpensation for the insurance you had bought before this agric
+pp_s7q20f,"Have you ever called the '8028', or agricultural hotline?"
+pp_s7q21,In your opinion who mainly undertakes the agricultural activities of your househ
+pp_s7q21b,"In your opinion, who mainly undertakes livestock husbandry or looks after livest"
+pp_s7q22,"Who is mainly responsible for buying agricultural inputs such as fertilizer, imp"
+pp_s7q23_a,What is the reason why a female did not participate in buying fertilizer?
+pp_s7q23_b,What is the reason why a female did not participate in buying fertilizer?
+pp_s7q23_c,What is the reason why a female did not participate in buying fertilizer?
+pp_s7q24,Who are the main participants of agricultural extension training services provid
+pp_s7q25,Who are the main beneficiaries of credit services in your community?
+pp_s7q26,"In your household, who makes decisions about selling crops?"
+pp_s7q27,"In your opinion, among your household members, who is responsible for taking cro"
+pp_s7q28,"In your household, who is responsible for selling or deciding to sell livestock?"
+pp_s7q29,"In your opinion, among your household members, who is responsible for taking liv"
+pp_s7q30,"In your opinion, among your household members, who is responsible for taking ani"
+pp_s7q31,"In your household, who makes decisions on how to use the income earned from sale"
+pp_s7q32,"In your opinion, among your household members, who makes a decision on how to us"
+pp_s7q33,"In your opinion, among your household members, who makes decisions on how to us"
+ph_saq07,Holder ID
+crop_name,Crop Name
+ph_s9q01,What type of crop stand was on the [FIELD]?
+ph_s9q02,"Approximately, how much of the [FIELD] is under [CROP]"
+ph_s9q03,Did you harvest [CROP] from this [FIELD]
+ph_s9q04_a,How much [CROP] did you harvest from this [FIELD](QUANTITY)
+ph_s9q04_b,How much [CROP] did you harvest from this [FIELD](UNIT)
+ph_s9qo4_b_other,others
+ph_s9q05,How much [CROP] did you harvest from this [FIELD]?
+ph_s9q06,What was the condition of this harvest [CROP]?
+ph_s9qo6_other,others
+ph_s9q07_a,What were the months when the harvest started ?
+ph_s9q07_b,What were the months when the harvest ended?
+ph_s9q07a_1,Who in your household makes the decisions concnering the use of [CROP] output fr
+ph_s9q07a_2,Who in your household makes the decisions concnering the use of [CROP] output fr
+ph_s9q08,Was the area harvested less than the area planted?
+ph_s9q09,What percentage of the area planted has been harvested?
+ph_s9q10_a,Why was the area harvested less than the area planted?(1ST Reason)
+ph_s9q10_b,Why was the area harvested less than the area planted?(2ND Reason)
+ph_s9q11,Was there any crop damage on [CROP]?
+ph_s9q12,What was the main cause of the damage on [CROP]?
+ph_s9q13,What is the percentage of damage on [CROP]?
+ph_s9q00,Parcel ID
+ph_s9q0a,Field ID
+ph_s9q01_a,Crop Name
+ph_s9q01_b,Crop Code
+ph_s9q02_a,Date of cut of [Crop] (Day)
+ph_s9q02_b,Date of cut of [Crop] (Month)
+ph_s9q03_a,Fresh weight of cut [Crop] (Kilo)
+ph_s9q03_b,Fresh weight of cut [Crop] (Gram)
+ph_s9q04_a,Date of dry weighing of [Crop] (Day)
+ph_s9q04_b,Date of dry weighing of [Crop] (Month)
+ph_s9q05_a,Dry weight of [Crop] (Kilo)
+ph_s9q05_b,Dry weight of [Crop] (Gram)
+ph_s10q01_a,How many days did you hire [Number of Men]
+ph_s10q01_b,How many days did you hire [Number of Days]
+ph_s10q01_c,DAILY WAGE PER PERSON PER DAY BIRR (MEN)
+ph_s10q01_d,How many days did you hire [Number of Women]
+ph_s10q01_e,How many days did you hire [Number of Days]
+ph_s10q01_f,DAILY WAGE PER PERSON PER DAY BIRR (WOMEN)
+ph_s10q01_g,How many days did you hire [Number of Children]
+ph_s10q01_h,How many days did you hire [Number of Days]
+ph_s10q01_i,DAILY WAGE PER PERSON PER DAY BIRR (CHILDREN)
+ph_s10q02_a,HH Member worked on field [HH Roster Number HH Member #1]
+ph_s10q02_b,HH Member worked on field [Number of Weeks HH Member #1]
+ph_s10q02_c,HH Member worked on field [Days/Weeks HH Member #1]
+ph_s10q02_d,HH Member worked on field [Hours/Day HH Member #1]
+ph_s10q02_e,HH Member worked on field [HH Roster Number HH Member #2]
+ph_s10q02_f,HH Member worked on field [Number of Weeks HH Member #2]
+ph_s10q02_g,HH Member worked on field [Days/Weeks HH Member #2]
+ph_s10q02_h,HH Member worked on field [Hours/Day HH Member #2]
+ph_s10q02_i,HH Member worked on field [HH Roster Number HH Member #3]
+ph_s10q02_j,HH Member worked on field [Number of Weeks HH Member #3]
+ph_s10q02_k,HH Member worked on field [Days/Weeks HH Member #3]
+ph_s10q02_l,HH Member worked on field [Hours/Day HH Member #3]
+ph_s10q02_m,HH Member worked on field [HH Roster Number HH Member #4]
+ph_s10q02_n,HH Member worked on field [Number of Weeks HH Member #4]
+ph_s10q02_o,HH Member worked on field [Days/Weeks HH Member #4]
+ph_s10q02_p,HH Member worked on field [Hours/Day HH Member #4]
+ph_s10q03_a,Others worked on field [Number of Men]
+ph_s10q03_b,Others worked on field [Number of Days Men]
+ph_s10q03_c,Others worked on field [Number of Women]
+ph_s10q03_d,Others worked on field [Number of Days Women]
+ph_s10q03_e,Others worked on field [Number of Children]
+ph_s10q03_f,Others worked on field [Number of Days Children]
+ph_s11q01,Did you sell any of the harvest [Crop]?
+ph_s11q01b_1,Who in your household makes decisions about selling [CROP]? (HH member 1)
+ph_s11q01b_2,Who in your household makes decisions about selling [CROP]?(HH member 2)
+ph_s11q01c_1,Who in your household is responsible for taking [CROP] to the market or selling
+ph_s11q01c_2,Who in your household is responsible for taking [CROP] to the market or selling
+ph_s11q02_a,Who/What were the main buyers/outlets for your [CROP] sales?(NETWORK ROSTER ID C
+ph_s11q02_b,Who/What were the main buyers/outlets for your [CROP] sales?(NETWORK ROSTER ID C
+ph_s11q03_a,How much of the harvest [Crop] was sold in total? (Qnty)
+ph_s11q03_b,How much of the harvest [Crop] was sold in total? (Unit)
+ph_s11q04,What was the total value of all [Crop] sales? (BIRR)
+ph_s11q05_a,Who in your HH kept/decided what to do with these earnings? (HH member 1)
+ph_s11q05_b,Who in your HH kept/decided what to do with these earnings? (HH member 2)
+ph_s11q06_a,When was most of the [Crop] sold? (Month)
+ph_s11q06_b,When was most of the [Crop] sold? (Year)
+ph_s11q07,Approximately how many transactions took place while selling [Crop]?
+ph_s11q08,What was the main mode of transportation associated with all [Crop] sales?
+ph_s11q09,What was the total cost of transportation assiciated with all [Crop] sales? (BIR
+ph_s11q10a_1,How much of the harvested [CROP] during [CURRENT AGRICULTURE SEASON] was used fo
+ph_s11q10a_2,How much of the harvested [CROP] during [CURRENT AGRICULTURE SEASON] was used fo
+ph_s11q10_1,How much of the harvest [Crop] during [Current Agriculture Season] was given out
+ph_s11q10_2,How much of the harvest [Crop] during [Current Agriculture Season] was given out
+ph_s11q11_1,How much of the harvest [Crop] was given out as reimbursements for inputs borrow
+ph_s11q11_2,How much of the harvest [Crop] was given out as reimbursements for inputs borrow
+ph_s11q12_1,How much of the harvest [Crop] was used for animal feed? (Quantity)
+ph_s11q12_2,How much of the harvest [Crop] was used for animal feed? (Unit)
+ph_s11q14_1,How much of the harvested [Crop] was saved for seed? (Quantity)
+ph_s11q14_2,How much of the harvested [Crop] was saved for seed? (Unit)
+ph_s11q15_1,"How much of the harvested [Crop] was lost to rotting, insects, rodents, theft, e"
+ph_s11q15_2,"How much of the harvested [Crop] was lost to rotting, insects, rodents, theft, e"
+ph_s11q15_4,"How much of the harvested [Crop] was lost to rotting, insects, rodents, theft, e"
+ph_s11q16_a,What was the reason for loss? (1st)
+ph_s11q16_b,What was the reason for loss? (2nd)
+ph_s11q17,Do you have any of the harvested [Crop] in storage now?
+ph_s11q18,What is the main method of storage for this crop?
+ph_s11q18_others,others
+ph_s11q19_a,How much of the harvested [CROP] during the [CURRENT AGRICULTURE SEASON] is bein
+ph_s11q19_b,How much of the harvested [CROP] during the [CURRENT AGRICULTURE SEASON] is bein
+ph_s11q20_a,What did you do to protect the stored [CROP]?(1ST)
+ph_s11q20_b,What did you do to protect the stored [CROP]?(2ND)
+ph_s11q21_a,"In general, when you store [CROP], what is usually the main purpose for storing"
+ph_s11q21_b,"In general, when you store [CROP], what is usually the main purpose for storing"
+ph_s11q22_a,What proportion of your crop product have you used for HOUSEHOLD CONSUMPTION
+ph_s11q22_b,"What proportion of your crop product have you used for IN-KIND WAGES, PAYMENTS"
+ph_s11q22_c,What proportion of your crop product have you used for ANIMAL FEED
+ph_s11q22_d,What proportion of your crop product have you used for SEED
+ph_s11q22_e,What proportion of your crop product have you used for SALE
+ph_s11q22_f,What proportion of your crop product have you used for OTHERS
+ph_s11q22_g,What proportion of your crop product have you used for TOTAL
+crop_code,Tree/Fruit/Root Crop Code
+ph_s12q02_a,What was the last completed production period for the [Fruit/Root Crop]? (Begini
+ph_s12q02_b,What was the last complete production period for the [Fruit/Root Crop]? (Beginin
+ph_s12q02_c,What was the last completed production period for the [Fruit/Root Crop]? (End Ye
+ph_s12q02_d,What was the last complete production period for the [Fruit/Root Crop]? (End Mon
+ph_s12q03_a,What was the total amount of [TREES/FRUIT/ROOT CROP] harvested in this harvest s
+ph_s12q03_b,What was the total amount of [TREES/FRUIT/ROOT CROP] harvested in this harvest s
+ph_s12q03b,"During this harvest season, what is the number of harvested or ready-to-be harve"
+ph_s12q04,Were there any losses of [TREES/FRUIT/ROOT CROP] before the harvest?
+ph_s12q05,What was the cause of these losses?
+ph_s12q06,Did you sell any of the [TREES/FRUIT/ROOT CROP] collected?
+ph_s12q07,What was the total quantity sold? (QNTY)
+ph_s12q0b,What was the total quantity sold? (UNIT)
+ph_s12q08,What was the total value of [Fruit/Root Crop] sold? (BIRR)
+ph_s12q08a_1,Who in your household kept/decided what to do with these earnings?(HH member 1)
+ph_s12q08a_2,Who in your household kept/decided what to do with these earnings?(HH member 2)
+ph_s12q09_a,Where did you sell most of the [Fruit/Root Crop]? (Network Roster ID Code #1)
+ph_s12q09_b,Where did you sell most of the [Fruit/Root Crop]? (Network Roster ID Code #2)
+ph_s12q10a_1,How much of the harvested [CROP] during [CURRENT AGRICULTURE SEASON] was used fo
+ph_s12q10a_2,How much of the harvested [CROP] during [CURRENT AGRICULTURE SEASON] was used fo
+ph_s12q10,"Was any portion of the production lost post-harvest to rotting, insects, rodents"
+ph_s12q11,What was the reasonfor this loss?
+ph_s12q12,"Out of 100 % of [TREES/FRUIT/ROOT CROP], how much was lost?"
+ph_s12q13,What was the value of this lost [Fruit/Root Crop]? (BIRR)
+ph_s12q14,Do you have any of this [Fruit/Root Crop] harvest in storage now?
+ph_s12q15a,How much of this harvest do you still have in storage? (QNTY)
+ph_s12q15b,How much of this harvest do you still have in storage? (UNIT)
+ph_s12q16,What is your main method of storage?
+ph_s12q17,Did you do anything to protect the stored crop?
+ph_s12q18,What did you do?
+ph_s12q19_a,What proportion of your crop product have you used for [Household Consumption]?
+ph_s12q19_b,"What proportion of your crop product have you used for [IN-KIND WAGES, PAYMENTS]"
+ph_s12q19_c,What proportion of your crop product have you used for [Animal Feed]? (Percent)
+ph_s12q19_e,What proportion of your crop product have you used for [SEED]? (Percent)
+ph_s12q19_f,What proportion of your crop product have you used for [SALE]? (Percent)
+ph_s12q19_g,What proportion of your crop product have you used for [OTHER]? (Percent)
+ph_s12q19_h,What proportion of your crop product have you used for [Total]? (Percent)
+ph_snrq00,ID
+ph_snrq01,Name
+ph_snrq02,Code
+ph_snrq03,Location
+saq05,ea
+crop_code,2. CROP CODE
+unit_cd,Unit code
+mean_cf_nat,CONVERSION FACTOR - NATIONAL
+mean_cf1,CONVERSION FACTOR - TIGRAY
+mean_cf2,CONVERSION FACTOR - AFAR
+mean_cf3,CONVERSION FACTOR - AMHARA
+mean_cf4,CONVERSION FACTOR - OROMIYA
+mean_cf6,CONVERSION FACTOR - BENISHANGUL GUMUZ
+mean_cf7,CONVERSION FACTOR - SNNP
+mean_cf12,CONVERSION FACTOR - GAMBELLA
+mean_cf99,"CONVERSION FACTOR - SOMALIE, DIRE DAWA, & HARAR"
+note,Notes & special assumptions
+pw_w3,Household survey weight (Wave 3)
+adulteq,Adult equivalent scale for HH
+hh_size,Household Size
+no_conv,HH has at least one item whose quantity could not be converted to kg/L (dropped)
+no_cons,HH did not report any consumption
+food_cons_ann,annual value of food consumption (selected items)
+nonfood_cons_ann,annual expenditure on nonfood items (selected items)
+educ_cons_ann,annual expenditure on education (including assistance)
+total_cons_ann,Total annual consumption
+price_index_hce,"regional spatial price index from MFED, HCE report"
+nom_totcons_aeq,Nominal annual consumption per adult equivalent
+cons_quint,5 quantiles of nom_totcons_aeq
+household_id2,Unique HH Identifier
+ea_id2,Unique EA Identfier
+dist_road,HH Distance in (KMs) to Nearest Major Road
+dist_popcenter,"HH Distance in (KMs) to Nearest Population Center with +20,000"
+dist_market,HH Distance in (KMs) to Nearest Market
+dist_borderpost,HH Distance in (KMs) to Nearest Border Crossing
+dist_admctr,HH Distance in (KMs) to Capital of Zone of Residence
+pop_density,pop_density
+af_bio_1,Annual Mean Temperature (deg C * 10)
+af_bio_8,Mean Temperature of Wettest Quarter (deg C * 10)
+af_bio_12,Annual Precipitation (mm)
+af_bio_13,Precipitation of Wettest Month (mm)
+af_bio_16,Precipitation of Wettest Quarter
+fsrad3_agpct,Percent agriculture within approx 1 km buffer
+fsrad3_lcmaj,Majority landcover class within approx 1 km buffer
+ssa_aez09,Agro-ecological Zones
+srtm,Elevation (m)
+twi,Potential Wetness Index
+srtm_5_15,Terrain Roughness
+sq1,Nutrient availability
+sq2,Nutrient retention capacity
+sq3,Rooting conditions
+sq4,Oxygen availability to roots
+sq5,Excess salts
+sq6,Toxicity
+sq7,Workability (constraining field management)
+anntot_avg,Avg 12-month total rainfall(mm) for Jan-Dec
+wetQ_avg,Avg total rainfall in wettest quarter(mm) within 12-month periods from Jan-Dec
+wetQ_avgstart,"Avg start of wettest quarter in dekads 1-36, where first week of January = 1"
+h2015_tot,"12-month total rainfall (mm) in Jan-Dec, starting January 2015"
+h2015_wetQ,Total rainfall (mm) in wettest quarter of 2015
+h2015_wetQstart,"Start of wettest quarter in dekads 1-36, where first week of January 2015 = 1"
+eviarea_avg,Avg total change in greenness(integral of daily EVI values)w/in primary growing
+evimax_avg,Avg EVI value at peak of greenness w/in growing season
+grn_avg,"Avg onset of greenness increase in day of year 1-356,where 1/1 = 1,avg by zone"
+sen_avg,"Avg onset of greenness decrease in day of year 1-356,where 1/1 = 1,avg by zone"
+h2015_eviarea,"Total change in greenness(integral of daily EVI values)w/in 2015 growing season,"
+h2015_evimax,EVI value at peak of greenness within 2015 growing season
+h2015_grn,"Onset of greenness increase in day of year 1-356,starting 1/1/15,avg by zone"
+h2015_sen,"Onset of greenness decrease in day of year 1-356,starting 1/1/15,avg by zone"
+lat_dd_mod,EA Latitude (WGS84) Modified
+lon_dd_mod,EA Longitude (WGS84) Modified
+holder_id,Unique Holder Identifier
+dist_household,Plot Distance in (KMs) to HH
+plot_srtmslp,Plot Slope (percent)
+plot_srtm,Plot Elevation (m)
+plot_twi,Plot Potential Wetness Index
